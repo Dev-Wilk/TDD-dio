@@ -2,7 +2,7 @@
 Este repositório contém uma suíte completa de testes para a API de produtos da aplicação Store, abrangendo testes de controller, schema e casos de uso (use cases).
 
 # Em andamento...
-
+projeto em andamento tendo que implementar mais os desafio propostos e fazer melhora
 
 ## Recursos Testados
 ### Controlador:
