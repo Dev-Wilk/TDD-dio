@@ -6,7 +6,7 @@ projeto em andamento tendo que implementar mais os desafio propostos e fazer mel
 
 ## Recursos Testados
 ### Controlador:
-Criação de Produto (POST): Verifica se um novo produto é criado com sucesso e retornado com o status HTTP 201.
+#### Criação de Produto (POST): Verifica se um novo produto é criado com sucesso e retornado com o status HTTP 201.
 Obtenção de Produto por ID (GET): Testa a busca de um produto existente por seu ID, retornando o status HTTP 200 e os detalhes do produto.
 Listagem de Produtos (GET): Verifica se a listagem de produtos retorna uma lista com todos os produtos cadastrados e o status HTTP 200.
 Atualização de Produto (PATCH): Testa a atualização parcial de um produto existente, retornando o status HTTP 200 e os detalhes atualizados.
