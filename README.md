@@ -1,6 +1,9 @@
 # TDD-dio
 Este repositório contém uma suíte completa de testes para a API de produtos da aplicação Store, abrangendo testes de controller, schema e casos de uso (use cases).
 
+# Em andamento...
+
+
 ## Recursos Testados
 ### Controlador:
 Criação de Produto (POST): Verifica se um novo produto é criado com sucesso e retornado com o status HTTP 201.
